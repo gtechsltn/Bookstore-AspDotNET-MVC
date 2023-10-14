@@ -9,9 +9,12 @@
 + ASP.NET MVC Core 5.0
 
 ## Step-By-Step
++ Open **VS 2019**
++ Open **Bookstore-AspDotNET-MVC.sln**
 + Change connection string in the **appSettings.json**
++ Package Manager Console > **Add-Migration Init**
 + Package Manager Console > **Update-Database**
-+ VS > F5 to run application
++ F5 to run application
 
 ## ⚔️ KẾ HOẠCH XÂY DỰNG DỰ ÁN
 ### 🧰 CÁC CÔNG NGHỆ, KĨ THUẬT ÁP DỤNG:
