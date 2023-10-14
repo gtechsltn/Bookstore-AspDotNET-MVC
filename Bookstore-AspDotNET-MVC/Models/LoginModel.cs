@@ -9,7 +9,7 @@ namespace Bookstore_AspDotNET_MVC.Models
     public class LoginModel
     {
         [Required]
-        [Display(Name = "Username")]
+        [Display(Name = "Tên đăng nhập")]
         public string UserName { get; set; }
         [Required]
         [DataType(DataType.Password)]

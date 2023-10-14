@@ -1,21 +1,4 @@
-
 # Hệ thống website bán sách
-
-## Setup Environment
-+ Windows 11 version 22H2
-+ Visual Studio 2019
-+ SQL Server 2019
-+ SQL Server Magament Studio
-+ ASP.NET MVC Core 5.0
-
-## Step-By-Step
-+ Open **VS 2019**
-+ Open **Bookstore-AspDotNET-MVC.sln**
-+ Change connection string in the **appSettings.json**
-+ Package Manager Console > **Add-Migration Init**
-+ Package Manager Console > **Update-Database**
-+ F5 to run application
-
 ## ⚔️ KẾ HOẠCH XÂY DỰNG DỰ ÁN
 ### 🧰 CÁC CÔNG NGHỆ, KĨ THUẬT ÁP DỤNG:
 -	Hệ quản trị CSDL: MS SQL Server

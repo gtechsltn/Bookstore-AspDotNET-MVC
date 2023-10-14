@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31129.286
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookstore-AspDotNET-MVC", "Bookstore-AspDotNET-MVC\Bookstore-AspDotNET-MVC.csproj", "{CAA44E3E-D2EF-4A2F-8E78-4F5A02652D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookstore-AspDotNET-MVC", "Bookstore-AspDotNET-MVC\Bookstore-AspDotNET-MVC.csproj", "{CAA44E3E-D2EF-4A2F-8E78-4F5A02652D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCore", "ConsoleAppCore\ConsoleAppCore.csproj", "{13482D6D-55EE-42F1-AE73-ADCCEADFDE17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CAA44E3E-D2EF-4A2F-8E78-4F5A02652D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAA44E3E-D2EF-4A2F-8E78-4F5A02652D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAA44E3E-D2EF-4A2F-8E78-4F5A02652D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13482D6D-55EE-42F1-AE73-ADCCEADFDE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13482D6D-55EE-42F1-AE73-ADCCEADFDE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13482D6D-55EE-42F1-AE73-ADCCEADFDE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13482D6D-55EE-42F1-AE73-ADCCEADFDE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
