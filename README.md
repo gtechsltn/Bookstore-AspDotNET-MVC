@@ -10,7 +10,7 @@
 
 ## Step-By-Step
 + Change connection string in the **appSettings.json**
-+ Package Manager Console > Update-Database
++ Package Manager Console > **Update-Database**
 + VS > F5 to run application
 
 ## ⚔️ KẾ HOẠCH XÂY DỰNG DỰ ÁN
