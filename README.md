@@ -8,6 +8,11 @@
 + SQL Server Magament Studio
 + ASP.NET MVC Core 5.0
 
+## Step-By-Step
++ Change connection string in the **appSettings.json**
++ Package Manager Console > Update-Database
++ VS > F5 to run application
+
 ## ⚔️ KẾ HOẠCH XÂY DỰNG DỰ ÁN
 ### 🧰 CÁC CÔNG NGHỆ, KĨ THUẬT ÁP DỤNG:
 -	Hệ quản trị CSDL: MS SQL Server
