@@ -1,4 +1,13 @@
+
 # Hệ thống website bán sách
+
+## Setup Environment
++ Windows 11 version 22H2
++ Visual Studio 2019
++ SQL Server 2019
++ SQL Server Magament Studio
++ ASP.NET MVC Core 5.0
+
 ## ⚔️ KẾ HOẠCH XÂY DỰNG DỰ ÁN
 ### 🧰 CÁC CÔNG NGHỆ, KĨ THUẬT ÁP DỤNG:
 -	Hệ quản trị CSDL: MS SQL Server
